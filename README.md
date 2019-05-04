@@ -1,1 +1,1 @@
-# Individual C++ programs
+# Individual C++ Projects
