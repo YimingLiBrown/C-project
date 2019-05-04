@@ -1,1 +1,1 @@
-# Higher-Order Matrices Calculator in C++
+# Higher-Order Matrices Calculator with C++ Template
